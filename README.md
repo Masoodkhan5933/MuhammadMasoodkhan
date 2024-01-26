@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Masood Khan
 =================================================================================================================================
 
-Website & Mobile Application Developer 💻
+<img src="https://i.ibb.co/KKFgBgb/for-github.jpg"/>
 -----------------------------
 
 💻Coding is my field, each line a perfectly timed stroke🏏. Debugging is my strategy session, refining the play for the next app triumph. Meet Masood Khan, a devoted web and mobile developer excelling in  React, HTML, CSS, React Nativeand Java. Specializing in dynamic, responsive design and backend mastery with Nodejs, PHP, and databases like MySQL, Firebase, and MongoDB. Let's team up and create something exceptional in the digital arena!
